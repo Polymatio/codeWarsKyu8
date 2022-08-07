@@ -1,0 +1,5 @@
+Complete The solution so that it reverse the string passed into it.
+
+'world' => 'dlrow'
+
+'word'  => 'drow'
