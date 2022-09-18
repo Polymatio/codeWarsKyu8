@@ -1,4 +1,7 @@
 // Create a function that determines the phrase what the girl will say on the flower's petals
+// Will use conditionals to return different outputs
+// The conditionals will return at least 6 different outputs
+// Using the modulus will help the output display based on the remainders
 
 function howMuchILoveYou(nbPetals) {
     if(nbPetals % 6 == 1) {

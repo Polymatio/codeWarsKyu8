@@ -1,9 +1,8 @@
-//Create a prototype to check if a string is an uppercase.
+// Create a prototype to check if a string is an uppercase
+// Using the toUpperCase method will allow the strings to uppercase
+// A conditional statement will be used to allow it to return the string
 
 String.prototype.isUpperCase = function() {
-
-    //create a conditional to check if it is true or false.
-
     if (this == this.toUpperCase()){
         return true;
   } else
