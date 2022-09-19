@@ -1,3 +1,7 @@
-//Create an expression for the sum of arrays
+// Create a function for the sum of array
+// Using the reduce method to sum the numbers inside the array
+// Will return a number inside the array using sum operator 
 
-sum = numbers => numbers.reduce((sum, a) => sum + a, 0)
+function sum(numbers) {
+    return numbers.reduce((a, b) => a + b, 0);
+}
