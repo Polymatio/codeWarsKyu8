@@ -1,4 +1,6 @@
-//Create a function that multiplies two integers.
+// Create a function that multiplies two integers
+// Make result assigned to multiplying a and b by using the multiplication operator
+// Return the result
 
 package kata
 
